@@ -1,4 +1,4 @@
-# BCB/EEOB 546, Computational Skills for Biological Data<br> Spring 2023 
+# BCB/EEOB 546, Computational Skills for Biological Data<br> Spring 2024 
 ### Wednesday/Friday, 1:10-2:30p.m., Bessey Hall 0030
 
 ## Course Website
@@ -18,7 +18,7 @@ We will also provide some information via the course Canvas page (for content th
 All office hours are by appointment. If you need to contact any instructor, please send a direct message via [Slack](https://biodataskills.slack.com/).
 
 * Dr. Matt Hufford
-* Dr. Wade Dismukes
+* Dr. Arun Seetharam
 * Dr. Dennis Lavrov
 
 ## Course Description
@@ -34,7 +34,7 @@ This course will be held in person unless otherwise specified.
 
 A detailed schedule the course can be found here:
 
-[https://docs.google.com/spreadsheets/d/1zHki2gVbZn-PYvyU11XJWvD3J6oTVrF0f7GAhSHS4Dw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1zHki2gVbZn-PYvyU11XJWvD3J6oTVrF0f7GAhSHS4Dw/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1E0ioNiW0NR3kR_AxA_0lRhMKs8QXlx4L63vpXVt2s4U/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1E0ioNiW0NR3kR_AxA_0lRhMKs8QXlx4L63vpXVt2s4U/edit?usp=sharing)
 
 Additionally, we will provide links to slides and other information on the course website schedule page:
 
