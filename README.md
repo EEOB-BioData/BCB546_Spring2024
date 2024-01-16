@@ -1,4 +1,4 @@
-# EEOB/BCB546 Spring 2023 Course Repository
+# EEOB/BCB546 Spring 2024 Course Repository
 
 This repository will be used throughout the semester to host the files and documents used in the course. It is expected that you will pull all new changes to this directory at the beginning of each class so that you can work with the data and script files for the in-class activities and homework assignments. Additionally, this repository will store the syllabus and other documents. 
 
@@ -10,22 +10,22 @@ For general information about the course, lecture slides, and to find descriptio
 
 Before cloning this repository, we recommend that you first have an account on [GitHub](https://github.com/). The following instructions assume that you have Git installed and are working in a Unix-based operating system.
 
-First, navigate to the directory that you would like to store the course repository, for example, you might want to keep all of the material for this course in a folder called `BCB546_2023` on your desktop:
+First, navigate to the directory that you would like to store the course repository, for example, you might want to keep all of the material for this course in a folder called `BCB546_2024` on your desktop:
 
 ```
-cd Desktop/BCB546_2023
+cd Desktop/BCB546_2024
 ```
 
 Now, you can clone the repository:
 
 ```
-git clone git@github.com:EEOB-BioData/BCB546_Spring2023.git
+git clone git@github.com:EEOB-BioData/BCB546_Spring2024.git
 ```
 
 Or you can use the HTTPS URL:
 
 ```
-git clone https://github.com/EEOB-BioData/BCB546_Spring2023.git
+git clone https://github.com/EEOB-BioData/BCB546_Spring2024.git
 ```
 
 Now you have access to all of the files currently in the repository.
