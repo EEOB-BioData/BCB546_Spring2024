@@ -38,7 +38,7 @@ When creating your repository, you can choose one group member to be the owner o
 
 ### In-Class Presentation:
 
-Each group will have ~20 minutes to present their work on either April 29th or May 4th.  Each presentation should include:
+Each group will have ~20 minutes to present their work on either May 1st or May 3rd.  Each presentation should include:
 
 1. Background on the biological question being investigated.
 2. A description of the workflow carried out by the group.
@@ -53,11 +53,11 @@ Your group should be a collaboration. You can form your groups of 3-5 people bas
 
 To communicate with your group members, we encourage you to use Slack. You can create a new channel for just your group members or you can just chat via direct message.
 
-The deadline for forming groups is **March 2nd, 2022**. When you have formed your group, _post your group name and list of members_ on the Slack `#final-project` channel. 
+The deadline for forming groups is **February 28th, 2024**. When you have formed your group, _post your group name and list of members_ on the Slack `#final-project` channel. 
 
 ### Submission
 
 You must submit the URL to your group's repository on Canvas (to the Final Project assignment that will be created). The grade given to the group presentation will be based on the 
 work as a whole. However, every member of a group must submit the URL on Canvas to ensure that you get credit for your participation in the project. 
 
-**The deadline for submitting your repository on Canvas is May 6th, 2022.**
+**The deadline for submitting your repository on Canvas is May 3rd, 2024.**
