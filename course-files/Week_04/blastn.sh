@@ -2,6 +2,8 @@
 #SBATCH --nodes=1
 #SBATCH --cpus-per-task=8
 #SBATCH --time=3:00:00
+#SBATCH --partition=instruction  # class node(s)
+#SBATCH --account=s2024.eeob.546.1   #account to use
 #SBATCH --mail-user=$USER@iastate.edu
 #SBATCH --mail-type=begin
 #SBATCH --mail-type=end
