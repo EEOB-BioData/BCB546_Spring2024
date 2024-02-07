@@ -10,7 +10,7 @@
 
 cd $SLURM_SUBMIT_DIR
 
-module load ncbi-toolkit/21_0_0-py2-4md6u2m
+module load blast-plus
 
 tblastx -db /shared/class/bcb590/546x/blast/Zea_mays_dna.fa -query /shared/class/bcb590/546x/blast/zm_pep.fa -outfmt "6 qseqid sseqid pident length mismatch gapopen qstart qend qlen sstart send slen evalue frames sgi staxid" -num_threads 8 -out zm_tblastx.out &
 
