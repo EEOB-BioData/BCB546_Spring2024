@@ -16,7 +16,7 @@ $ ssh nova
 
 Again, the password for nova.its.iastate.edu is the same as that for CyMail.
 
-Once you have successfully logged on, `cd` into your `BCB546-Spring2023` folder and update the folder using the command:
+Once you have successfully logged on, `cd` into your `BCB546-Spring2024` folder and update the folder using the command:
 
 ```
 $ git pull origin main
@@ -33,9 +33,9 @@ This will open the file using Visual Editor or "Vi", which is the default editor
 
 Useful commands will include `i` for "insert", `x` for "delete" and `:x` for "save and exit"
 
-Once you have the SLURM script edited and ready to go, `cd` to your root directory, create an `in_class` folder, `cd` into this new folder, and launch the script from there.  You'll need the path to the SLURM script so it may be useful to copy the results of a `pwd` before leaving the `Week_05` folder.  For example, to schedule the job from my 	`in_class` folder, I would type:
+Once you have the SLURM script edited and ready to go, `cd` to your root directory, create an `in_class` folder, `cd` into this new folder, and launch the script from there.  You'll need the path to the SLURM script so it may be useful to copy the results of a `pwd` before leaving the `Week_04` folder.  For example, to schedule the job from my 	`in_class` folder, I would type:
 
-`$ sbatch /home/mhufford/BCB546_Spring2023/course-files/Week_05/blastn.sh`
+`$ sbatch /home/mhufford/BCB546_Spring2024/course-files/Week_04/blastn.sh`
 
 Now, monitor the job using commands we learned in class:
 
