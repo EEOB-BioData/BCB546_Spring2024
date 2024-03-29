@@ -1,3 +1,32 @@
+# Before you begin
+
+## Update your course repository
+
+You need to clone the course repository to Nova. You probably already have cloned this, so you can skip this step.
+
+```bash
+git clone git@github.com:EEOB-BioData/BCB546_Spring2024.git
+```
+
+You will still need to pull new changes to this repository at the beginning of class. This will enable you to access new data files and scripts needed for in-class activities.
+
+```bash
+cd BCB546_Spring2024
+git pull
+```
+
+Note that if you have modified any files in the repository, you will need to commit those changes before you can pull new changes. If you don't care about the changes, just delete and re-clone the repository.
+
+## Start Jupyter notebook on Nova on demand.
+
+You can start Jupyter notebook on Nova on demand. This will allow you to run Jupyter notebook on the server and access it from your local machine.
+
+1. Go to the [Nova OnDemand](https://nova-ondemand.its.iastate.edu/) and login
+2. Under the "Interactive Apps" tab, click on "Jupyter Notebook", request desired resources and click "Launch"
+3. Wait for the job to start and click on the "Connect to Jupyter" button
+
+
+
 # Getting Started
 
 To being with, we will need to load the `pandas` library. This library will provide us with the tools we need to work with dataframes.
