@@ -46,12 +46,13 @@ The file is divided into nine columns (usually referred as attributes column), w
 
 ## Importing the required libraries
 
-We will be using the `pandas` library to read and manipulate the GFF3 file. We will also use the `os` library to check if the file exists. Later for plotting, we will also use the `seaborn` library.
+We will be using the `pandas` library to read and manipulate the GFF3 file. We will also use the `os` library to check if the file exists. Later for plotting, we will also use the `seaborn` library. And one specific function from `matplotlib` library to save the plots.
 
 ```python
 import pandas as pd
-import seaborn as sns
 import os
+import seaborn as sns 
+import matplotlib.pyplot as plt
 ```
 
 ## Download the GFF3 files
@@ -321,7 +322,7 @@ sns.histplot(data=chr_gff3_df[filter], x='feature_length', bins=50, log_scale=Tr
 To save plots, you can either use the `%%` magic command in Jupyter notebook or use the `savefig` method.
 
 ```python
-%%capture
+%%capture --no-display fig.png
 sns.histplot(data=chr_gff3_df[filter], x='feature_length', bins=50, log_scale=True)
 ```
 
