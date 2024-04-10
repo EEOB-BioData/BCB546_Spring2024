@@ -1,6 +1,6 @@
 # Python Assignment
 
-### Due: 5 May 2023
+### Due: 1 May 2024
 
 ## Summary
 
@@ -19,7 +19,7 @@ Additionally, Dr. X has written some comments and pseudocode that outline other 
 ## Details
 
 * Create a **_new_** repository for this assignment and name it `BCB546-PythonHW_Spring2023`. The repository you submit should _only_ include the files necessary for running the code you write to perform the tasks described here. Do not include any files from other assignments (e.g., your Unix or R assignments) or from the course tutorials. 
-* Download the necessary files from the [`Python_Assignment`](https://github.com/EEOB-BioData/BCB546-Spring2023/tree/main/assignments/Python_Assignment) folder in the course repository and add them to your own repository where you will submit this assignment. The files required are:
+* Download the necessary files from the [`Python_Assignment`](https://github.com/EEOB-BioData/BCB546-Spring2024/tree/main/assignments/Python_Assignment) folder in the course repository and add them to your own repository where you will submit this assignment. The files required are:
     * `sequence_translate.py`
     * `penguins_mass.csv`
     * `penguins_cytb.fasta`
@@ -31,6 +31,6 @@ Additionally, Dr. X has written some comments and pseudocode that outline other 
     * Remember to document everything very clearly, following documentation guidelines we covered in class.
 * Commit and push your completed Python analyses in the Jupyter notebook to your repository
     * Be sure that your GitHub repository is self contained--i.e., if someone cloned it they could run your whole Jupyter notebook without any trouble.
-* Submit the URL to your git repository to Python Assignment on Canvas by the end of the day on May 5, 2023.
+* Submit the URL to your git repository to Python Assignment on Canvas by the end of the day on May 1, 2024.
 
 
